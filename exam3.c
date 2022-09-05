@@ -29,7 +29,7 @@ int main(){
 
 
     printf("Enter your name => ");
-    scanf("%s", &student_name);//There is error It can't space between name (i.e khant sithu).
+    scanf("%s", &student_name);
 
     while (true) {
         printf("Enter the category number which you want => ");
